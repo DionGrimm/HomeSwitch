@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-98 313 414 272" style="enable-background:new -98 313 414 272;" xml:space="preserve" style='font-family: "Roboto","Helvetica","Arial",sans-serif;'>
+<style type="text/css">
+	* {
+		font-family: "Roboto","Helvetica","Arial",sans-serif;
+	}
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#89F0AA;}
+	.st3{fill:#707070;}
+	.st5{font-size:12px;}
+	.st6{fill:#F0AA89;}
+	.st8{font-size:20px;}
+	.st9{fill:#555555;}
+	.st11{fill:none;stroke:#707070;stroke-linecap:round;}
+</style>
+<g>
+	<defs>
+	    <style type="text/css">@import url('../static/Cloud-Soft-Light.otf');</style>
+	</defs>
+	<defs>
+		<rect id="SVGID_1_" x="-98" y="29" width="414" height="736"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Verbruik_1" class="st0">
+		<rect x="-98" y="29" class="st1" width="414" height="736"/>
+		<rect id="Achtergrond" x="-98" y="29" class="st2" width="414" height="736"/>
+		<g id="Metingen" transform="translate(0 9)">
+			<rect id="Rectangle_5" x="-98" y="304" class="st1" width="414" height="272"/>
+			<g id="Graph" transform="translate(15.74 10.784)">
+				<g id="Bars" transform="translate(13 303)">
+					<rect id="Rectangle_20" x="-98" y="161.7" class="st2" width="14" height="7"/>
+					<rect id="Rectangle_20-2" x="-64" y="161.7" class="st2" width="14" height="7"/>
+					<rect id="Rectangle_20-3" x="-35.9" y="161.7" class="st2" width="14" height="7"/>
+					<rect id="Rectangle_20-4" x="-4.9" y="51.7" class="st2" width="14" height="117"/>
+
+						<rect id="Rectangle_20-5" x="25.7" y="109.6" transform="matrix(-0.9999 -1.699754e-002 1.699754e-002 -0.9999 63.0011 278.8355)" class="st2" width="14" height="59"/>
+					<rect id="Rectangle_20-6" x="57.2" y="165.7" class="st2" width="14" height="3"/>
+					<rect id="Rectangle_20-7" x="88.2" y="165.7" class="st2" width="14" height="3"/>
+					<rect id="Rectangle_20-8" x="119.2" y="165.7" class="st2" width="14" height="3"/>
+					<rect id="Rectangle_20-9" x="150.2" y="165.7" class="st2" width="14" height="3"/>
+					<rect id="Rectangle_20-10" x="181.3" y="69.7" class="st2" width="14" height="99"/>
+					<rect id="Rectangle_20-11" x="209.3" y="29" class="st2" width="14" height="139.7"/>
+					<rect id="Rectangle_20-12" x="243.3" y="51" class="st2" width="14" height="117.7"/>
+				</g>
+				<g id="Time" transform="translate(13 448.653)">
+					<text transform="matrix(1 0 0 1 243.333 42)" class="st3 st4 st5">22</text>
+					<text transform="matrix(1 0 0 1 209.333 42)" class="st3 st4 st5">20</text>
+					<text transform="matrix(1 0 0 1 181.272 42)" class="st3 st4 st5">18</text>
+					<text transform="matrix(1 0 0 1 150.242 42)" class="st3 st4 st5">16</text>
+					<text transform="matrix(1 0 0 1 119.212 42)" class="st3 st4 st5">14</text>
+					<text transform="matrix(1 0 0 1 88.181 42)" class="st3 st4 st5">12</text>
+					<text transform="matrix(1 0 0 1 57.151 42)" class="st3 st4 st5">10</text>
+					<text transform="matrix(1 0 0 1 26.121 42)" class="st3 st4 st5">08</text>
+					<text transform="matrix(1 0 0 1 -4.909 42)" class="st3 st4 st5">06</text>
+					<text transform="matrix(1 0 0 1 -35.94 42)" class="st3 st4 st5">04</text>
+					<text transform="matrix(1 0 0 1 -64 42)" class="st3 st4 st5">02</text>
+					<text transform="matrix(1 0 0 1 -98 42)" class="st3 st4 st5">00</text>
+				</g>
+			</g>
+			<g id="Buttons">
+				<g id="Button" transform="translate(12)">
+					<g transform="matrix(1, 0, 0, 1, -12, -9)">
+						<path id="Rectangle_21-4" class="st6" d="M-60,524h71c11,0,20,9,20,20l0,0c0,11-9,20-20,20h-71c-11,0-20-9-20-20l0,0
+							C-80,533-71,524-60,524z"/>
+					</g>
+					<text transform="matrix(1 0 0 1 -54.418 544)" class="st1 st7 st8">Dag</text>
+				</g>
+				<g id="Button-2" transform="translate(143)">
+					<g transform="matrix(1, 0, 0, 1, -143, -9)">
+						<path id="Rectangle_21-5" class="st2" d="M71,524h71c11,0,20,9,20,20l0,0c0,11-9,20-20,20H71c-11,0-20-9-20-20l0,0
+							C51,533,60,524,71,524z"/>
+					</g>
+					<text transform="matrix(1 0 0 1 -61.278 544)" class="st1 st7 st8">Week</text>
+				</g>
+				<g id="Button-3" transform="translate(274)">
+					<g transform="matrix(1, 0, 0, 1, -274, -9)">
+						<path id="Rectangle_21-6" class="st2" d="M202,524h71c11,0,20,9,20,20l0,0c0,11-9,20-20,20h-71c-11,0-20-9-20-20l0,0
+							C182,533,191,524,202,524z"/>
+					</g>
+					<text transform="matrix(1 0 0 1 -53.988 544)" class="st1 st7 st8">Jaar</text>
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 0, 0)">
+			<text transform="matrix(1 0 0 1 -27 70)" class="st1 st10" style="font-size:24px;">Verbruik</text>
+		</g>
+		<g id="Hamburger_btn">
+			<g transform="matrix(1, 0, 0, 1, 0, 0)">
+				<path id="Rectangle_15-2" class="st1" d="M-78,49h33c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-33c-1.7,0-3-1.3-3-3l0,0
+					C-81,50.3-79.7,49-78,49z"/>
+			</g>
+			<g transform="matrix(1, 0, 0, 1, 0, 0)">
+				<path id="Rectangle_16-2" class="st1" d="M-78,60h33c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-33c-1.7,0-3-1.3-3-3l0,0
+					C-81,61.3-79.7,60-78,60z"/>
+			</g>
+			<g transform="matrix(1, 0, 0, 1, 0, 0)">
+				<path id="Rectangle_17-2" class="st1" d="M-78,71h33c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-33c-1.7,0-3-1.3-3-3l0,0
+					C-81,72.3-79.7,71-78,71z"/>
+			</g>
+		</g>
+		<g id="Verbruik_metingen" transform="translate(0 -42)">
+			<text transform="matrix(1 0 0 1 -36 177)" class="st1 st7 st8">Het totale verbruik van vandaag</text>
+			<text transform="matrix(1 0 0 1 59.042 214)" class="st1 st7" style="font-size:30px;">14 KwH</text>
+			<text transform="matrix(1 0 0 1 -52.565 257)" class="st1 st7 st8">Uw besparing vandaag op basis van </text>
+			<text transform="matrix(1 0 0 1 21.473 284)" class="st1 st7 st8">uw basisverbruik is:</text>
+			<text transform="matrix(1 0 0 1 88 319)" class="st1" style="font-size:30px;">7%</text>
+		</g>
+		<g transform="matrix(1, 0, 0, 1, 0, 0)">
+			<path id="Rectangle_22-2" class="st1" d="M21,632h177c12.2,0,22,9.8,22,22v12c0,12.2-9.8,22-22,22H21c-12.2,0-22-9.8-22-22v-12
+				C-1,641.8,8.8,632,21,632z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 43 672)" class="st2 st7" style="font-size:30px;">4-12-2018</text>
+		<text transform="matrix(1 0 0 1 14.215 342)" class="st9 st10 st8">Verbruik van vandaag</text>
+		<line id="Line_12" class="st11" x1="-78.5" y1="417.5" x2="-92.5" y2="428.5"/>
+		<path id="Path_3" class="st11" d="M-78.5,439l-14-10.5"/>
+		<line id="Line_13" class="st11" x1="297.5" y1="417.5" x2="309" y2="428.5"/>
+		<path id="Path_4" class="st11" d="M297.5,439l11.5-10.5"/>
+		<g transform="matrix(1, 0, 0, 1, 0, 0)">
+			<text transform="matrix(1 0 0 1 41.7 724)" class="st1 st10 st8">Kies een datum</text>
+		</g>
+	</g>
+</g>
+</svg>

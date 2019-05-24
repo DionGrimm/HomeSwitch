@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Super secret control page</title>
+
+		<script src="/socket.io/socket.io.js"></script>
+		<script>
+			var socket = io()
+
+			function sendSrv(command) {
+				socket.emit("srv", command)
+			}
+		</script>
+	</head>
+	<body>
+		<button type="button" name="button" onclick="sendSrv('restart')">Restart script</button>
+	</body>
+</html>
